@@ -7,6 +7,7 @@ public class Alert {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
+		//This is a changed project
 		// Sets the driver
 		System.setProperty("webdriver.chrome.driver", "C:/Users/lakkh/OneDrive/Documents/chromedriver.exe");
 		WebDriver driver = new ChromeDriver();
